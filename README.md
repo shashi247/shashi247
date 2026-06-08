@@ -68,7 +68,7 @@ Applying regression to model price sensitivity in consumer electronics — direc
 `Python` `NumPy` `Pandas` `scikit-learn` `Computer Vision` `Recommendation Systems`
 
 **Design & Delivery**
-`Figma` `Adobe XD` `JIRA` `Optimizely` `Salesforce CRM`
+`Figma` `Adobe XD` `JIRA` `CRM`
 
 ---
 
